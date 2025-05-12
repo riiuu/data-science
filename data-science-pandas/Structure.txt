@@ -1,0 +1,20 @@
+/data-science-pandas/
+│
+├── /data/                # Contient les jeux de données CSV ou JSON
+│   ├── raw/              # Données brutes (ex: .csv, .xlsx)
+│   └── processed/        # Données nettoyées
+│
+├── /notebooks/           # Notebooks Jupyter pour les tests et l'exploration
+│   └── 01-intro-pandas.ipynb
+│
+├── /scripts/             # Scripts Python réutilisables
+│   ├── clean_data.py
+│   └── analyze_data.py
+│
+├── /outputs/             # Résultats d’analyses : graphiques, CSV nettoyés, etc.
+│   ├── figures/
+│   └── reports/
+│
+├── README.md             # Présentation du projet
+├── requirements.txt      # Librairies nécessaires (ex: pandas, matplotlib)
+└── .gitignore            # Fichiers à ne pas suivre avec Git
