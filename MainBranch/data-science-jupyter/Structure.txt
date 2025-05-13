@@ -1,4 +1,4 @@
-/data-science-pandas/
+/data-science-jupyter/
 │
 ├── /data/                # Contient les jeux de données CSV ou JSON
 │   ├── raw/              # Données brutes (ex: .csv, .xlsx)
